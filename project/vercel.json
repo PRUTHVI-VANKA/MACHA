@@ -1,9 +1,4 @@
 {
-  "build": {
-    "env": {
-      "VITE_PUBLIC_URL": "/"
-    }
-  },
-  "rootDirectory": "./project",
+  "rootDirectory": "project",
   "outputDirectory": "dist"
 }
